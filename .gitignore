@@ -1,0 +1,14 @@
+# Exclude log files
+*.log
+
+# Exclude .htaccess files
+.htaccess
+
+# Exclude txt files
+*.txt
+
+# Except Read me
+!README.txt
+
+# Exclude fonts
+_fonts/
